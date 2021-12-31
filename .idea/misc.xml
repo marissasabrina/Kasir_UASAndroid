@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/Users/mwx658433/AndroidStudioProjects/Kasir/app/src/main/res/drawable/angle-left_24.xml" value="0.1125" />
         <entry key="..\:/Users/mwx658433/AndroidStudioProjects/Kasir/app/src/main/res/drawable/angle_left.xml" value="0.1125" />
-        <entry key="..\:/Users/mwx658433/AndroidStudioProjects/Kasir/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/mwx658433/AndroidStudioProjects/Kasir/app/src/main/res/drawable/minus_small.xml" value="0.2203125" />
+        <entry key="..\:/Users/mwx658433/AndroidStudioProjects/Kasir/app/src/main/res/drawable/plus_small.xml" value="0.2203125" />
+        <entry key="..\:/Users/mwx658433/AndroidStudioProjects/Kasir/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/mwx658433/AndroidStudioProjects/Kasir/app/src/main/res/layout/activity_main2.xml" value="0.1" />
         <entry key="..\:/Users/mwx658433/AndroidStudioProjects/Kasir/app/src/main/res/layout/activity_main3.xml" value="0.20416666666666666" />
       </map>
